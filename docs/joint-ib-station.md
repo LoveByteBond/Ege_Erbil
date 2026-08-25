@@ -8,7 +8,7 @@ configurable asset and timeframe screener.
 
 <!-- SCREENSHOT SLOT: capture the RISK MANAGEMENT tab (paper mode, disconnected),
      save as images/joint_ib_station_risk.png, and this line renders it: -->
-![Joint IB Station — Risk Management tab](../images/joint_ib_station_risk.png)
+![Joint IB Station — Risk Management tab](../images/joint_ib_station_risk_1.png)
 *Risk Management tab, paper mode.*
 
 ## What it does
